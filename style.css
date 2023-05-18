@@ -334,4 +334,25 @@ max-width: 100%; */
                                                                 }
 
                                                                }
+                                                                  .trending ,.trending2{
+                                                                    height: 100px;
+                                                                    background-color: #1b1a19;
+                                                                    color: #E8F6EF;
+                                                            
                                                                   
+                                                                  }
+                                                                  .section2Head{padding: 50px;
+                                                                  }
+                                                                 .trending2{
+                                                                   margin-bottom: -35px;
+height: 150px;
+color: #000;
+                
+                                                                 }
+                                                                 .trending2 h1{
+                                                                    padding: 50px 25px;
+                                                                    z-index: 5;
+                                                                 
+                                                                margin: 50px 25px;
+                                                                color: #E8F6EF;}
+                                            
